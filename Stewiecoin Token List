@@ -1,0 +1,15 @@
+{
+  "name": "Stewiecoin Token List",
+  "timestamp": "2026-02-18T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x919914c245fd0bcbb213e391099efcd2b3d444aa",
+      "symbol": "STEW",
+      "name": "StewieCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/HerbyBob/HerbyBob/refs/heads/main/icon.svg"
+    }
+  ]
+}
